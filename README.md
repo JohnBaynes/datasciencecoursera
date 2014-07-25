@@ -1,4 +1,0 @@
-datasciencecoursera
-===================
-
-Initial Coursera Repo
